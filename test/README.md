@@ -1,0 +1,1 @@
+This folder contains unit and integration tests for the NED API Chatbot project. 

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+pydantic
+pytest
+# Placeholder for Pedantic AI MCP server (replace with actual package if available) 

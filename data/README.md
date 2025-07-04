@@ -1,0 +1,1 @@
+This folder contains data files and resources for the NED API Chatbot project. 
