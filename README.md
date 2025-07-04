@@ -36,6 +36,11 @@ graph TD;
     MCP --> Chatbot
     Chatbot --> User
 ```
+## Activities
+1. To make NED API call and get data for 2025
+2. To build a random forest model with train and test data
+3. To make the model available as tool to the MCP
+4. Receive chatbot query and provide response as predicted price
 
 ---
 
